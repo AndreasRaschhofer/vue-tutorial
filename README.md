@@ -1,4 +1,5 @@
 # vue-app
+https://www.taniarascia.com/getting-started-with-vue/
 
 ## Project setup
 ```
